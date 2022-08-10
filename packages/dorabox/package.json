@@ -1,0 +1,12 @@
+{
+  "name": "dorabox",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "dependencies": {
+    "@dorabox/fn": "^0.0.1",
+    "@dorabox/number": "^0.0.1",
+    "@dorabox/object": "^0.0.1",
+    "@dorabox/regexp": "^0.0.1",
+    "@dorabox/string": "^0.0.1"
+  }
+}

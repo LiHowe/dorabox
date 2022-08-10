@@ -1,5 +1,12 @@
 {
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
-  "projects": {}
+  "projects": {
+    "dorabox": "packages/dorabox",
+    "fn": "packages/fn",
+    "number": "packages/number",
+    "object": "packages/object",
+    "regexp": "packages/regexp",
+    "string": "packages/string"
+  }
 }
