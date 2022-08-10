@@ -20,6 +20,7 @@
       "@dorabox/object": ["packages/object/src/index.ts"],
       "@dorabox/regexp": ["packages/regexp/src/index.ts"],
       "@dorabox/string": ["packages/string/src/index.ts"],
+      "@dorabox/types": ["packages/types/src/index.ts"],
       "dorabox": ["packages/dorabox/src/index.ts"]
     }
   },

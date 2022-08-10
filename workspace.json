@@ -7,6 +7,7 @@
     "number": "packages/number",
     "object": "packages/object",
     "regexp": "packages/regexp",
-    "string": "packages/string"
+    "string": "packages/string",
+    "types": "packages/types"
   }
 }
